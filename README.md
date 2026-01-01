@@ -65,6 +65,6 @@ Open http://localhost:5173
 in your browser.
 
 ##  🔹 Folder Structure
-      <img width="246" height="735" alt="image" src="https://github.com/user-attachments/assets/106619c0-dfa5-4646-97c9-17c6af5ddd3f" />
+  <img width="246" height="735" alt="image" src="https://github.com/user-attachments/assets/106619c0-dfa5-4646-97c9-17c6af5ddd3f" />
 
 
