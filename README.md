@@ -47,18 +47,20 @@ This project simulates a real-world SaaS dashboard with editable tables, search,
 
 ## 🔹 Project Setup
 
-```bash
-# Clone repository
-git clone https://github.com/yourusername/frontend-assignment.git
-cd frontend-assignment
+    # Clone repository
+    git clone https://github.com/yourusername/frontend-assignment.git
+    cd frontend-assignment
+    
+    # Install dependencies
+    npm install @tanstack/react-table axios
+    npm install -D tailwindcss postcss autoprefixer
+    npx tailwindcss init -p
+    
+    npm install
+    
+    # Run development server
+    npm run dev
 
-# Install dependencies
-npm install @tanstack/react-table axios
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
-
-npm install
-
-# Run development server
-npm run dev
+Open http://localhost:5173
+in your browser.
 
