@@ -1,16 +1,60 @@
-# React + Vite
+# Frontend Intern Assignment — Inkle
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, interactive customer management UI built using **React**, **TailwindCSS**, and **@tanstack/react-table**.  
+This project simulates a real-world SaaS dashboard with editable tables, search, and dropdowns, following best UX practices.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔹 Features
 
-## React Compiler
+- **Dynamic Table**  
+  - Built with `@tanstack/react-table`  
+  - Columns: Name, Gender, Request Date, Country, Actions  
+  - Editable inline modal for updating customer details  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Edit Modal**  
+  - Pixel-perfect, responsive, and modern UI  
+  - Searchable country dropdown  
+  - Add new countries not in API  
+  - Form validation with visible Save button only when data is changed  
+  - Smooth animations with `framer-motion`  
+  - Accessible (ESC to close, keyboard navigation)
 
-## Expanding the ESLint configuration
+- **API Integration**  
+  - GET and PUT requests to Mock APIs  
+  - Fetch countries dynamically  
+  - Update customer details seamlessly  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **UX Enhancements**  
+  - Hover states, badges for gender  
+  - Readable text colors (dark text on light background)  
+  - “No results” message for unmatched dropdown searches  
+  - Skeleton loading for async data fetch  
+  - Toast notifications for success/error
+
+---
+
+## 🔹 Tech Stack
+
+- **Frontend:** React 18, TailwindCSS  
+- **Table Library:** @tanstack/react-table v8  
+- **Animations:** Framer Motion  
+- **HTTP Requests:** Axios  
+- **Notifications:** react-hot-toast  
+- **API:** MockAPI (https://685013d7e7c42cfd17974a33.mockapi.io)
+
+---
+
+## 🔹 Project Setup
+
+```bash
+# Clone repository
+git clone https://github.com/yourusername/frontend-assignment.git
+cd frontend-assignment
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
