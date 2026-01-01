@@ -75,9 +75,6 @@ in your browser.
 - Advanced table features and editable modal
 
 ##   🔹 Author
-
-Manoj P M
-
-Frontend Developer | Aspiring Intern
-
-📧 manojpoojari1511@gmail.com
+  Manoj P M
+  Frontend Developer | Aspiring Intern
+  📧 manojpoojari1511@gmail.com
