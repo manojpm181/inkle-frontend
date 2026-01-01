@@ -67,4 +67,10 @@ in your browser.
 ##  🔹 Folder Structure
   <img width="246" height="735" alt="image" src="https://github.com/user-attachments/assets/106619c0-dfa5-4646-97c9-17c6af5ddd3f" />
 
+##   🔹 Highlights
+
+- Fully functional real-world SaaS UI
+- Clean, maintainable, production-ready code
+- Modern UX and responsive design
+- Advanced table features and editable modal
 
