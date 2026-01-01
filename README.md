@@ -53,6 +53,10 @@ git clone https://github.com/yourusername/frontend-assignment.git
 cd frontend-assignment
 
 # Install dependencies
+npm install @tanstack/react-table axios
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
 npm install
 
 # Run development server
