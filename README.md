@@ -77,5 +77,7 @@ in your browser.
 ##   🔹 Author
 
 Manoj P M
-- Frontend Developer | Aspiring Intern
-- 📧 manojpoojari1511@gmail.com
+
+Frontend Developer | Aspiring Intern
+
+📧 manojpoojari1511@gmail.com
