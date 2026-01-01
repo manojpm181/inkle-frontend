@@ -74,3 +74,8 @@ in your browser.
 - Modern UX and responsive design
 - Advanced table features and editable modal
 
+##   🔹 Author
+
+Manoj P M
+Frontend Developer | Aspiring Intern
+📧 manojpoojari1511@gmail.com
