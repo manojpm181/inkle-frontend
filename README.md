@@ -48,8 +48,8 @@ This project simulates a real-world SaaS dashboard with editable tables, search,
 ## 🔹 Project Setup
 
     # Clone repository
-    git clone https://github.com/yourusername/frontend-assignment.git
-    cd frontend-assignment
+    git clone https://github.com/manojpm181/inkle-frontend.git
+    cd inkle-frontend
     
     # Install dependencies
     npm install @tanstack/react-table axios
